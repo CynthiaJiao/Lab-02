@@ -14,6 +14,13 @@ library(tidyverse)
 ```{r load-data, message=FALSE}
 plastic_waste <- read.csv("data/plastic-waste.csv")
 ```
+## Warm up
+1. Source: Write and edit scripts.
+2. Console: Run code and see output.
+3. Environment: View loaded objects
+4. Plots/Packages/Help: view plots, packages, and search for package instructions.
+
+There are 240 observations and 10 variables. NA represents missing data.
 
 ## Exercises
 
