@@ -91,7 +91,7 @@ ggplot(
 
 Density plot with different transparency
 
-```{r plastic-waste-density}
+```{r}
 
 ggplot(
   data = plastic_waste,
